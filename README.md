@@ -4,9 +4,12 @@
 ⚡ SYSTEM BOOTING... [ OK ]
 
 ┌──(root⚠️ST1LL-1N-S1MUL4T10N)-[~]:
+
 └─$ echo "System Integration | Cybersecurity | Automation"
 
+
 └─$ sudo nano ReadMe
+
 ST1LL-1N-S1MUL4T10N (Deaf Tech Enthusiast):  
 🖥️ IT Trainee | System Integration  
 📂 Documenting My IT Journey
