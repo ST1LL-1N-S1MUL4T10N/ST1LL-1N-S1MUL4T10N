@@ -1,7 +1,7 @@
-ⵄ
+# ⵄ
 
 
-# ⚡ SYSTEM BOOTING... [ OK ]
+⚡ SYSTEM BOOTING... [ OK ]
 
 ┌──(root⚠️ST1LL-1N-S1MUL4T10N)-[~]:~# sudo apt update && sudo apt upgrade -y
 └─$ echo "System Integration | Cybersecurity | Automation"
