@@ -32,7 +32,7 @@ PORT   STATE SERVICE
 42/tcp open  reserved
 
 
-└─$ sudo tee /etc/motd <<< "($(whoami)@$(hostname))# while true; do improve; done"
+└─$ sudo tee /etc/motd <<< "($ (whoami) @$(hostname))# while true; do improve; done"
 
 
 └─$ sudo shutdown now
