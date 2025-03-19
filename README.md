@@ -1,3 +1,6 @@
+ⵄ
+
+
 # ⚡ SYSTEM BOOTING... [ OK ]
 
 ┌──(root⚠️ST1LL-1N-S1MUL4T10N)-[~]:~# sudo apt update && sudo apt upgrade -y
