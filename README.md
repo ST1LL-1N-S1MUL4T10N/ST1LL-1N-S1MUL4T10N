@@ -3,7 +3,7 @@
 
 ⚡ SYSTEM BOOTING... [ OK ]
 
-┌──(root⚠️ST1LL-1N-S1MUL4T10N)-[~]:~# sudo apt update && sudo apt upgrade -y
+┌──(root⚠️ST1LL-1N-S1MUL4T10N)-[~]:
 └─$ echo "System Integration | Cybersecurity | Automation"
 
 └─$ sudo nano ReadMe
