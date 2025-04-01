@@ -10,7 +10,7 @@
 
 └─$ sudo nano ReadMe
 
-ST1LL-1N-S1MUL4T10N (Deaf Tech Enthusiast):  
+ST1LL-1N-S1MUL4T10N (Deaf):  
 🖥️ IT Trainee | System Integration  
 📂 Documenting My IT Journey
 🏗️ Automation & Infrastructure 
